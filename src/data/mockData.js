@@ -1,13 +1,13 @@
-import arroraImg from '../images/Arrora.png';
-import jamesImg from '../images/james.png';
-import robertImg from '../images/Robert.png';
-import bethanyImg from '../images/Bethany.png';
-import anneImg from '../images/Anne.png';
-import bethany2Img from '../images/Bethany 2.png';
-import james2Img from '../images/James 2.png';
-import jhonImg from '../images/jhon.png';
-import bethany3Img from '../images/Bethany 3.png';
-import james3Img from '../images/James 3.png';
+import arroraImg from '../Images/Arrora.png';
+import jamesImg from '../Images/james.png';
+import robertImg from '../Images/Robert.png';
+import bethanyImg from '../Images/Bethany.png';
+import anneImg from '../Images/Anne.png';
+import bethany2Img from '../Images/Bethany 2.png';
+import james2Img from '../Images/James 2.png';
+import jhonImg from '../Images/jhon.png';
+import bethany3Img from '../Images/Bethany 3.png';
+import james3Img from '../Images/James 3.png';
 
 // Product Analytics Assets extracted directly from user's Figma design
 import badgeTotalProduct from '../Images/product/badge-total-product.png';
@@ -454,7 +454,7 @@ export const initialChats = [
       name: 'Easin Arafat',
       role: 'Lead UI/UX Designer',
       status: 'online',
-      avatar: '../src/images/Avatar'
+      avatar: jhonImg
     },
     unread: 2,
     lastTime: '10:45 AM',
@@ -471,7 +471,7 @@ export const initialChats = [
       name: 'Anne Jacob',
       role: 'Finance Manager',
       status: 'online',
-      avatar: '../src/images/Anne.png'
+      avatar: anneImg
     },
     unread: 0,
     lastTime: '09:30 AM',
@@ -485,7 +485,7 @@ export const initialChats = [
       name: 'Robert Bacins',
       role: 'Product Lead',
       status: 'away',
-      avatar: '../src/images/Robert.png'
+      avatar: robertImg
     },
     unread: 0,
     lastTime: 'Yesterday',
@@ -499,7 +499,7 @@ export const initialChats = [
       name: 'Bethany Jackson',
       role: 'Customer Success',
       status: 'offline',
-      avatar: '../src/images/Bethany.png'
+      avatar: bethanyImg
     },
     unread: 0,
     lastTime: 'Oct 28',

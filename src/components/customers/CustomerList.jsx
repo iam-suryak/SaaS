@@ -15,8 +15,8 @@ import {
 } from 'lucide-react';
 import { useDashboard } from '../../context/DashboardContext';
 
-import jhonImg from '../../images/jhon.png';
-import arroraImg from '../../images/Arrora.png';
+import jhonImg from '../../Images/jhon.png';
+import arroraImg from '../../Images/Arrora.png';
 
 export default function CustomerList() {
   const {
